@@ -5,6 +5,10 @@ categories: Learning Notes
 tags: [Operating-System,Coursera]
 ---
 
+曹奶奶在coursera上的操作系统课程，因为怕演话剧（雾？）大学没有选这门课，结果现在还得重新捞起来，sigh~
+
+<!--more-->
+
 ## OS概述
 
 #### OS的作用
